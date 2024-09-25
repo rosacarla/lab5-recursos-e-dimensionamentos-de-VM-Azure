@@ -1,4 +1,4 @@
-# ☁️ CONGIGURANDO RECURSOS E DIMENSIONAMENTOS NO AZURE  
+☁️ CONGIGURANDO RECURSOS E DIMENSIONAMENTOS NO AZURE  
  
 <p align="center">
   <img src="https://i.postimg.cc/Gmxtwttm/azure-fundamentals.png" width="256">
@@ -74,9 +74,8 @@ Contato: rosa.carla@pucpr.edu.br
 
 ## 🔗 LINKS ÚTEIS  
 
-- [Rede global do Azure](https://azure.microsoft.com/pt-br/explore/global-infrastructure/global-network/?msockid=0918e6742c7f677b085cf2a02d0666cb)
-- [Controlar e organizar os recursos do Azure com o <i>Azure Resource Manager</i>](https://learn.microsoft.com/pt-br/training/modules/control-and-organize-with-azure-resource-manager/?WT.mc_id=azureportalcard_Service_ResourceGrps_-inproduct-azureportal)
-- [O que é o <i>Azure Resource Manager</i>?](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/overview?WT.mc_id=APC-Resourcegroups)
-- [Documentação do <i>Azure Resource Manager</i>](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/?WT.mc_id=APC-Resourcegroups)
+- [Máquinas Virtuais do Azure](https://azure.microsoft.com/pt-br/products/virtual-machines)
+- [Área de Trabalho Virtual do Azure](https://azure.microsoft.com/pt-br/products/virtual-desktop)
+- [Tutorial: criar um aplicativo de funções que se conecta aos serviços do Azure usando identidades em vez de segredos](https://learn.microsoft.com/pt-br/azure/azure-functions/functions-identity-based-connections-tutorial)
 
 ---
