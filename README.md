@@ -7,7 +7,7 @@
 ---  
 ## ⏯️ INTRODUÇÃO  
 
-<p align='justify'>Neste laboratório do bootcamp <i>Azure Essencials</i>, foram abordadas questões referentes a formas de configuração de recursos e dimensionamentos de máquinas virtuais no portal <a href='https://portal.azure.com/'><i>Microsoft Azure</i></a>. Através do projeto, foram exploradas. </p>     
+<p align='justify'>Neste laboratório do bootcamp <i>Azure Essencials</i>, foram abordadas questões referentes a formas de configuração de recursos e dimensionamentos de máquinas virtuais no portal <a href='https://portal.azure.com/'><i>Microsoft Azure</i></a>. Através do projeto, foram explorados os conceitos sobre redes virtuais, balanceamento de carga. </p>     
 
 <p align="center">
   <img src='  ' width=880> 
