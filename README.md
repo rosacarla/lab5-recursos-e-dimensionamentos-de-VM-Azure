@@ -16,13 +16,13 @@
 --- 
 ## 🗒️RESUMO DOS TÓPICOS:  
 
-<p align='justify'>- Inicialmente, explorou-se o globo com as regiões de disponibilidade do Azure. Por exemplo, no Brasil existem 2 regiões: <i>Brazil South</i> em SP (reservada para todos os consumidores e parceiros) e <i>Brazil Southeast</i> no RJ (reservada para consumdores brasileiros, que requerem cenário baseado em <i>disaster recovery</i>). </p>     
+<p align='justify'>- Ao criar uma máquina virutal no Azure, serão incluidas automaticamente algumas configuraçõees pré-definidas, como indica o aviso sobre a série F m destaque na imagem acima. Ao selecionar a região, recomenda-se escolher regiões com custo menor, como <i>(US) East US 2</i>. A escolha da Zona de Disponibilidade tem coomo consequência a escolha de um datacenter específico. </p>     
 
 <p align="center">
   <img src='  ' width=880> 
 </p>
 
-<p align='justify'>- Quanto à <i>Data Residency</i>, a região <i>Brazil South</i> repllica os dados automaticamente para os US e a região <i>Brazil Southeast</i> replica os dados para dentro do território nacional.</p>    
+<p align='justify'>- É importante saber configurar o conjunto de dimensionamento de máquinas virtuais, com quantas máquinas vai começar, em quantas se farão alterações, o que vai mudar nelas e até quanto alguma vai crescer.   Quanto à <i>Data Residency</i>, a região <i>Brazil South</i> repllica os dados automaticamente para os US e a região <i>Brazil Southeast</i> replica os dados para dentro do território nacional.</p>    
 
 <p align="center">
   <img src=''  ' width=880>  
