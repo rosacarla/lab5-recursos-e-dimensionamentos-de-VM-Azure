@@ -19,7 +19,7 @@
 <p align='justify'>- Ao criar uma máquina virutal no Azure, serão incluidas automaticamente algumas configurações pré-definidas, como indica o aviso sobre a série F em destaque na imagem acima. Ao selecionar a região, recomenda-se escolher regiões com custo menor, como <i>(US) East US 2</i>. A escolha da Zona de Disponibilidade tem como consequência a escolha de um datacenter específico. </p>     
 
 <p align="center">
-  <img src='https://github.com/rosacarla/lab5-recursos-e-dimensionamentos-de-VM-Azure/blob/main/images/vm-coniguracoes-adicionais.png' width=880> 
+  <img src='https://github.com/rosacarla/lab5-recursos-e-dimensionamentos-de-VM-Azure/blob/main/images/vm-configuracoes-adicionais.png' width=880> 
 </p>
 
 <p align='justify'>- É importante saber configurar o conjunto de dimensionamento de máquinas virtuais, com quantas máquinas vai começar, em quantas se farão alterações, o que vai mudar nelas e até quanto alguma vai crescer.</p>    
