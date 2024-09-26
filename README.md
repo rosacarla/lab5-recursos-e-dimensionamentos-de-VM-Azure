@@ -1,4 +1,4 @@
-☁️ CONGIGURANDO RECURSOS E DIMENSIONAMENTOS DE MÁQUINAS VIRTUAIS NO AZURE  
+☁️ CONFIGURANDO RECURSOS E DIMENSIONAMENTOS DE MÁQUINAS VIRTUAIS NO AZURE  
  
 <p align="center">
   <img src="https://i.postimg.cc/Gmxtwttm/azure-fundamentals.png" width="256">
@@ -58,7 +58,8 @@
  <img src= ' width=880>  
 </p>
 
----  
+---    
+
 ## ✍️ AUTORA    
 
 Carla Edila Silveira  
