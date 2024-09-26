@@ -25,7 +25,7 @@
 <p align='justify'>- É importante saber configurar o conjunto de dimensionamento de máquinas virtuais, com quantas máquinas vai começar, em quantas se farão alterações, o que vai mudar nelas e até quanto alguma vai crescer.</p>    
 
 <p align="center">
-  <img src='https://github.com/rosacarla/lab5-recursos-e-dimensionamentos-de-VM-Azure/blob/main/images/deimensionar-nro-vm.png' width=880>  
+  <img src='https://github.com/rosacarla/lab5-recursos-e-dimensionamentos-de-VM-Azure/blob/main/images/dimensionar-nro-vm.png' width=880>  
 </p>
 
 <p align='justify'>- Na visualização do globo, é demonstrado o cabeamento que conecta as regiões, satélites, e ainda é possível fazer um tour virtual por um datacenter da Microsoft.</p>    
