@@ -7,10 +7,10 @@
 ---  
 ## ⏯️ INTRODUÇÃO  
 
-<p align='justify'>Neste laboratório do bootcamp <i>Azure Essencials</i>, foram abordadas questões referentes a formas de configuração de recursos e dimensionamentos de máquinas virtuais no portal <a href='https://portal.azure.com/'><i>Microsoft Azure</i></a>. Através do projeto, foram explorados os conceitos sobre redes virtuais, balanceamento de carga. </p>     
+<p align='justify'>Neste laboratório do bootcamp <i>Azure Essencials</i>, foram abordadas questões referentes a formas de configuração de recursos e dimensionamentos de máquinas virtuais no portal <a href='https://portal.azure.com/'><i>Microsoft Azure</i></a>. Através do projeto,foram explorados os conceitos sobre redes virtuais, balanceamento de carga. </p>     
 
 <p align="center">
-  <img src='  ' width=880> 
+  <img src='https://github.com/rosacarla/lab5-recursos-e-dimensionamentos-de-VM-Azure/blob/main/images/criar-vm-serieF.png' width=880> 
 </p>
 
 --- 
@@ -19,13 +19,13 @@
 <p align='justify'>- Ao criar uma máquina virutal no Azure, serão incluidas automaticamente algumas configuraçõees pré-definidas, como indica o aviso sobre a série F m destaque na imagem acima. Ao selecionar a região, recomenda-se escolher regiões com custo menor, como <i>(US) East US 2</i>. A escolha da Zona de Disponibilidade tem coomo consequência a escolha de um datacenter específico. </p>     
 
 <p align="center">
-  <img src='  ' width=880> 
+  <img src='https://github.com/rosacarla/lab5-recursos-e-dimensionamentos-de-VM-Azure/blob/main/images/vm-coniguracoes-adicionais.png' width=880> 
 </p>
 
 <p align='justify'>- É importante saber configurar o conjunto de dimensionamento de máquinas virtuais, com quantas máquinas vai começar, em quantas se farão alterações, o que vai mudar nelas e até quanto alguma vai crescer.   Quanto à <i>Data Residency</i>, a região <i>Brazil South</i> repllica os dados automaticamente para os US e a região <i>Brazil Southeast</i> replica os dados para dentro do território nacional.</p>    
 
 <p align="center">
-  <img src=''  ' width=880>  
+  <img src='https://github.com/rosacarla/lab5-recursos-e-dimensionamentos-de-VM-Azure/blob/main/images/deimensionar-nro-vm.png' width=880>  
 </p>
 
 <p align='justify'>- Na visualização do globo, é demonstrado o cabeamento que conecta as regiões, satélites, e ainda é possível fazer um tour virtual por um datacenter da Microsoft.</p>    
