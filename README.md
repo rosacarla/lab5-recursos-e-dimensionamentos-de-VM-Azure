@@ -60,23 +60,4 @@
 
 ---  
 
-## ✍️ AUTORA    
-
-Carla Edila Silveira  
-Contato: rosa.carla@pucpr.edu.br  
-
 ---  
-
-## ©️ LICENÇA
-
-[MIT](https://choosealicense.com/licenses/mit/)  
-
----  
-
-## 🔗 LINKS ÚTEIS  
-
-- [Máquinas Virtuais do Azure](https://azure.microsoft.com/pt-br/products/virtual-machines)
-- [Área de Trabalho Virtual do Azure](https://azure.microsoft.com/pt-br/products/virtual-desktop)
-- [Tutorial: criar um aplicativo de funções que se conecta aos serviços do Azure usando identidades em vez de segredos](https://learn.microsoft.com/pt-br/azure/azure-functions/functions-identity-based-connections-tutorial)
-
----
