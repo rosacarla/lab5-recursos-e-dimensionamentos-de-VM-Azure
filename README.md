@@ -87,8 +87,8 @@
 ---  
 
 ## ❔EXEMPLO DE PERGUNTA DO EXAME AZ900   
-<p align='justify'><b>Quando há um grupo de pessoas trabalhando e há intenção de ofercer uma ambiente personalizado dentro do Azure, qual recurso pode ser criado?</p>  
-RESPOSTA => Área de Trabalho VirtUal do Azure.</b>    
+<p align='justify'><b>Quando existe um grupo de pessoas trabalhando e há intenção de lhe oferecer um ambiente personalizado dentro do Azure, qual recurso pode ser criado?</p>  
+RESPOSTA => Área de Trabalho Virtual do Azure.</b>    
 
 ---    
 ## ✍️ AUTORA    
